@@ -1,3 +1,12 @@
+fun ex04ch02(args:Array<String>)
+{
+    var days:Array<String> = arrayOf("월", "화", "수", "목", "금", "토", "일")
+    for(idx in 0..(days.size-1))
+    {
+        println(days[idx] + "요일")
+    }
+
+}
 fun ex03ch02(args: Array<String>)
 {
     var strInt: String = "1"
