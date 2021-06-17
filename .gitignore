@@ -1,0 +1,8 @@
+Console_Application/.gradle
+Console_Application/.idea
+Console_Application/gradle
+Console_Application/build.gradle.kts
+Console_Application/gradle.properties
+Console_Application/gradlew
+Console_Application/gradlew.bat
+Console_Application/settings.gradle.kts
